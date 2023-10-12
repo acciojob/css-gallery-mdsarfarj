@@ -1,9 +1,13 @@
 /* Your CSS code here. If applicable */
 .cards img{
-	display:flex;
 	
 	max-width:25vw;
 	margin:10px;
 	border:3px solid #000;
 	box-shadow:3px 3px 8px 0px rgba(0, 0, 0, 0.3);
+}
+.cards{
+	 display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
 }
