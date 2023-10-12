@@ -1,5 +1,7 @@
 /* Your CSS code here. If applicable */
 .cards img{
+	display:flex;
+	
 	max-width:25vw;
 	margin:10px;
 	border:3px solid #000;
